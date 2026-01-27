@@ -4,40 +4,6 @@
 >
 > Disha Khakha
 
-**Contents**
-
-[**1 Introduction** [**3**](#introduction)](#introduction)
-
-[1.1 Purpose [3](#purpose)](#purpose)
-
-[1.2 Scope [3](#scope)](#scope)
-
-[1.3 Intended Users [3](#intended-users)](#intended-users)
-
-[**2 Overall Description**
-[**3**](#overall-description)](#overall-description)
-
-[2.1 Product Perspective
-[3](#product-perspective)](#product-perspective)
-
-[2.2 User Characteristics
-[3](#user-characteristics)](#user-characteristics)
-
-[2.3 Operating Environment
-[3](#operating-environment)](#operating-environment)
-
-[**3 Functional Requirements**
-[**4**](#functional-requirements)](#functional-requirements)
-
-[**4 Non-Functional Requirements**
-[**4**](#non-functional-requirements)](#non-functional-requirements)
-
-[**5 Constraints** [**5**](#constraints)](#constraints)
-
-[**6 Assumptions** [**5**](#assumptions)](#assumptions)
-
-[**7 Conclusion** [**5**](#conclusion)](#conclusion)
-
 # Introduction
 
 ## Purpose
@@ -156,3 +122,4 @@ This document defines the functional and non-functional requirements of
 the Personal Expense Tracker application. The purpose of the system is
 to provide a simple and efficient way for users to track and analyze
 their personal expenses.
+
